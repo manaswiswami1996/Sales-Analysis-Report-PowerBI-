@@ -1,4 +1,4 @@
-![Sales Analysis Icon] https://github.com/manaswiswami1996/Sales-Analysis-Report-PowerBI-/blob/4d8486b4b02b5e1d3c00edb04b02c5c8b91d6586/Sales%20analysis%20image.jpeg
+![Alt text](Sales analysis image.jpeg)
 
 ## Sales Analysis Report
 
