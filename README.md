@@ -1,4 +1,4 @@
-[logo] < https://github.com/manaswiswami1996/Sales-Analysis-Report-PowerBI-/blob/508a2a41dce0399eafb472118a3357e44323c897/Sales%20analysis%20image.jpeg > 
+[logo] < Sales analysis image.jpeg > 
 # Sales-Analysis-Report-PowerBI-
 This Power BI Sales Analysis Report provides insights into sales performance, customer segmentation, and product profitability. The dashboard is designed to assist the client in identifying key growth opportunities and operational improvements by analyzing critical sales metrics.
 
