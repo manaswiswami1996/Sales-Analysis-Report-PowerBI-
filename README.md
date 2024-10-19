@@ -1,4 +1,4 @@
-![Sales Analysis Icon](images/sales-icon.png)
+![Sales Analysis Icon](Sales analysis image.jpeg)
 
 ## Sales Analysis Report
 
