@@ -1,7 +1,10 @@
 ![logo](https://github.com/manaswiswami1996/Sales-Analysis-Report-PowerBI-/blob/main/Sales%20analysis%20image.jpeg)
 
-# Sales-Analysis-Report-PowerBI-
-This Power BI Sales Analysis Report provides insights into sales performance, customer segmentation, and product profitability. The dashboard is designed to assist the client in identifying key growth opportunities and operational improvements by analyzing critical sales metrics.
+# ShopNest-Sales-Analysis-Report-PowerBI-
+ Built using Power BI, this project showcases advanced data modeling and visualization techniques for optimizing sales, understanding customer behavior, and driving regional growth.
+
+# About ShopNest
+ShopNest is a hypothetical retail analytics project designed to demonstrate data-driven decision-making in the retail sector. It integrates fictional datasets, including sales transactions, customer demographics, product details, and regional trends, to simulate real-world business scenarios. .
 
 # Data Model
 ## Schema
